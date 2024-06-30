@@ -1,0 +1,14 @@
+We have used 2 datasets for this Food Calorie Analytics project.
+
+Food Dataset :
+
+The first dataset consists of complete details about food images that we are going to use to train, validate, and test the model. It consists of 20 classes of indian cuisine foods, like, samosa, idly, chai, etc. 
+Each of the Class of food consists of about 150-250 images to train the model. since we have used a large dataset for training the model, thereby we thus ensure the better performance of the model in various cases. 
+In this way, our model will be able both liquid foods like chai and solid foods like samosa easily. 
+Link : https://drive.google.com/file/d/1H9hEnBR7hicROM3iKbb6fAW7HC7dP1aX/view?usp=drive_link
+
+Calorie Dataset : 
+
+This dataset consists of calorie details of all the 20 classes of food that we have in our food dataset. Thus, this dataset consists of a mapping between the 20 class foods to their corresponding per unit calorie 
+estimation of food. 
+Link : https://drive.google.com/file/d/1nQMyaz9Db_wdya2E7MwCZ5rAYgfjO1N_/view?usp=drive_link
